@@ -10,3 +10,9 @@ Options:
 Examples:
   hex2tw -c|--color aeaeae
 ```
+
+## Install
+
+```sh
+npm i -g hex-to-tw-cli
+```
