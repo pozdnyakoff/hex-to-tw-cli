@@ -1,5 +1,7 @@
 # hex-to-tw-cli
 
+Convert hex color to Tailwind CSS color.
+
 ```shell
 $ hex2tw --help
 Usage: hex2tw --color <hex>
