@@ -1,0 +1,22 @@
+{
+  "author": "Ilya Pozdnyakov <ipozdnyakoff@outlook.com>",
+  "bin": {
+    "hex2tw": "bin/hex2tw"
+  },
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "yargs": "^17.0.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "prettier": "^2.6.2"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "hex-to-tw-cli",
+  "scripts": {},
+  "version": "1.0.0"
+}
