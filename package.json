@@ -18,6 +18,7 @@
   "license": "MIT",
   "main": "src/index.js",
   "name": "hex-to-tw-cli",
+  "repository": "pozdnyakoff/hex-to-tw-cli",
   "scripts": {
     "release": "standard-version"
   },
